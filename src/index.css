@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: LexendDec;
+    src: url(./assets/fonts/LexendDecaRegular.ttf);
+}
+@font-face {
+    font-family: Hind-r;
+    src: url(./assets/fonts/Hind-Regular.ttf);
+}
+@font-face {
+    font-family: Hind-sb;
+    src: url(./assets/fonts/Hind-SemiBold.ttf);
+}
